@@ -7,7 +7,6 @@ def sorting_algorithm_1(list_of_numbers):
                 new_list.append(x)
     return new_list
 
-
 print(sorting_algorithm_1([3, 2, 9, 7, 1, 4]))
 
 
